@@ -1,0 +1,10 @@
+[project]
+name = "tools"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Adrian Hernandez-Mendez" }
+]
+requires-python = ">=3.14"
+dependencies = []
